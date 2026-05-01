@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.routes import router
 
-app = FastAPI(title="PicClean API", version="0.1.0")
+app = FastAPI(title="ManaSource API", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,

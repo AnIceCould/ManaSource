@@ -38,7 +38,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1 className="app-title">PicClean</h1>
+        <h1 className="app-title">ManaSource</h1>
         <span className="app-subtitle">二次元图片管理</span>
       </header>
 
