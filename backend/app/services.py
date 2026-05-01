@@ -7,7 +7,7 @@ from PIL import Image
 
 SUPPORTED_FORMATS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp", ".tiff", ".tif"}
 THUMBNAIL_SIZE = (280, 280)
-CACHE_DIR = Path.home() / ".picclean_cache"
+CACHE_DIR = Path.home() / ".manasource_cache"
 
 
 def is_image_file(file_path: str) -> bool:

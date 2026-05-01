@@ -15,7 +15,7 @@ node_modules/
 frontend/node_modules/
 
 # Generated / cache
-.picclean_cache/
+.manasource_cache/
 *.log
 
 # OS
